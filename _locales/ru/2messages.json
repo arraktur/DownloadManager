@@ -1,0 +1,498 @@
+{
+	   "badChromeVersion": {
+	      "description": "",
+	      "message": "API загрузок доступен только на каналах dev и beta. Обновите Хром здесь."
+	   },
+	   "contextMenuOpen": {
+	      "description": "",
+	      "message": "Открыть"
+	   },
+	   "contextMenuOpenFolder": {
+	      "description": "",
+	      "message": "Открыть папку"
+	   },
+	   "contextMenuGoToDownloadPage": {
+	      "description": "",
+	      "message": "Перейти на страницу загрузки"
+	   },
+	   "contextMenuDownloadLink": {
+	      "description": "",
+	      "message": "Копировать ссылку для скачивания"
+	   },
+	   "contextMenuDeleteFromDisk": {
+	      "description": "",
+	      "message": "Удалить с диска"
+	   },
+	   "contextMenuRemoveFromList": {
+	      "description": "",
+	      "message": "Удалить из списка"
+	   },
+	   "AllDownloadsTitle": {
+	      "description": "",
+	      "message": "Все загрузки"
+	   },
+	   "optionsTitle": {
+	      "description": "",
+	      "message": "Настройки"
+	   },
+	   "cancelTitle": {
+	      "description": "",
+	      "message": "Отменить"
+	   },
+	   "clearAllTitle": {
+	      "description": "",
+	      "message": "Очистить все видимые загрузки"
+	   },
+	   "clearAllText": {
+	      "description": "",
+	      "message": "Очистить всё"
+	   },
+	   "clearCompletedTitle": {
+	      "description": "",
+	      "message": "Очистить все завершённые загрузки"
+	   },
+	   "clearCompletedText": {
+	      "description": "",
+	      "message": "Очищение завершено"
+	   },
+	   "clearDeletedTitle": {
+	      "description": "",
+	      "message": "Очистить все удалённые загрузки"
+	   },
+	   "clearDeletedText": {
+	      "description": "",
+	      "message": "Очистить удалённое"
+	   },
+	   "clearFailedTitle": {
+	      "description": "",
+	      "message": "Очистить все неудавшиеся загрузки"
+	   },
+	   "clearFailedText": {
+	      "description": "",
+	      "message": "Очистить неудавшееся"
+	   },
+	   "eraseTitle": {
+	      "description": "",
+	      "message": "Удалить из списка"
+	   },
+	   "errorRemoved": {
+	      "description": "",
+	      "message": "Удалено"
+	   },
+	   "error_1": {
+	      "description": "",
+	      "message": "Сбой файла "
+	   },
+	   "error_10": {
+	      "description": "",
+	      "message": "Временная ошибка файловой системы"
+	   },
+	   "error_11": {
+	      "description": "",
+	      "message": "Файл заблокирован"
+	   },
+	   "error_12": {
+	      "description": "",
+	      "message": "Проверка безопасности не удалась"
+	   },
+	   "error_13": {
+	      "description": "",
+	      "message": "Слишком маленький файл"
+	   },
+	   "error_2": {
+	      "description": "",
+	      "message": "Доступ к файловой системе запрещён"
+	   },
+	   "error_20": {
+	      "description": "",
+	      "message": "Сбой сети"
+	   },
+	   "error_21": {
+	      "description": "",
+	      "message": "Превышено время ожидания"
+	   },
+	   "error_22": {
+	      "description": "",
+	      "message": "Сеть отключена"
+	   },
+	   "error_23": {
+	      "description": "",
+	      "message": "Сервер не работает"
+	   },
+	   "error_3": {
+	      "description": "",
+	      "message": "Не хватает места на диске"
+	   },
+	   "error_30": {
+	      "description": "",
+	      "message": "Сбой сервера"
+	   },
+	   "error_31": {
+	      "description": "",
+	      "message": "Сбой диапазона сервера"
+	   },
+	   "error_32": {
+	      "description": "",
+	      "message": "Не отвечает предварительным условиям сервера"
+	   },
+	   "error_33": {
+	      "description": "",
+	      "message": "Неисправное содержимое файла"
+	   },
+	   "error_40": {
+	      "description": "",
+	      "message": "Отменено"
+	   },
+	   "error_41": {
+	      "description": "",
+	      "message": " Отменено"
+	   },
+	   "error_5": {
+	      "description": "",
+	      "message": "Слишком длинное имя файла"
+	   },
+	   "error_50": {
+	      "description": "",
+	      "message": "Сбой"
+	   },
+	   "error_6": {
+	      "description": "",
+	      "message": "Слишком большой файл"
+	   },
+	   "error_7": {
+	      "description": "",
+	      "message": "Заражение вирусом"
+	   },
+	   "error_CRASH": {
+	      "description": "",
+	      "message": "Сбой"
+	   },
+	   "error_FILE_ACCESS_DENIED": {
+	      "description": "",
+	      "message": "Доступ к файловой системе запрещён"
+	   },
+	   "error_FILE_BLOCKED": {
+	      "description": "",
+	      "message": "Файл заблокирован"
+	   },
+	   "error_FILE_FAILED": {
+	      "description": "",
+	      "message": "Сбой файла"
+	   },
+	   "error_FILE_NAME_TOO_LONG": {
+	      "description": "",
+	      "message": "Слишком длинное имя файла"
+	   },
+	   "error_FILE_NO_SPACE": {
+	      "description": "",
+	      "message": "Не хватает места на диске"
+	   },
+	   "error_FILE_SECURITY_CHECK_FAILED": {
+	      "description": "",
+	      "message": "Проверка безопасности не удалась"
+	   },
+	   "error_FILE_TOO_LARGE": {
+	      "description": "",
+	      "message": "Слишком большой файл"
+	   },
+	   "error_FILE_TOO_SHORT": {
+	      "description": "",
+	      "message": "Слишком маленький файл"
+	   },
+	   "error_FILE_TRANSIENT_ERROR": {
+	      "description": "",
+	      "message": "Временная ошибка файловой системы"
+	   },
+	   "error_FILE_VIRUS_INFECTED": {
+	      "description": "",
+	      "message": "Файл заражён вирусом"
+	   },
+	   "error_NETWORK_DISCONNECTED": {
+	      "description": "",
+	      "message": "Отсутствует подключение к сети"
+	   },
+	   "error_NETWORK_FAILED": {
+	      "description": "",
+	      "message": "Сбой сети"
+	   },
+	   "error_NETWORK_SERVER_DOWN": {
+	      "description": "",
+	      "message": "Сервер отключен"
+	   },
+	   "error_NETWORK_TIMEOUT": {
+	      "description": "",
+	      "message": "Превышено время ожидания"
+	   },
+	   "error_SERVER_BAD_CONTENT": {
+	      "description": "",
+	      "message": "Ошибка содержимого"
+	   },
+	   "error_SERVER_FAILED": {
+	      "description": "",
+	      "message": "Сбой сервера"
+	   },
+	   "error_SERVER_NO_RANGE": {
+	      "description": "",
+	      "message": "Сбой диапазона сервера"
+	   },
+	   "error_SERVER_PRECONDITION": {
+	      "description": "",
+	      "message": "Не отвечает предварительным условиям сервера"
+	   },
+	   "error_USER_CANCELED": {
+	      "description": "",
+	      "message": "Отменено"
+	   },
+	   "error_USER_SHUTDOWN": {
+	      "description": "",
+	      "message": "Отменено"
+	   },
+	   "extDesc": {
+	      "description": "Описание расширения",
+	      "message": "Управляйте и взаимодействуйте с вашими загрузками быстро и просто"
+	   },
+	   "extName": {
+	      "description": "Название расширения",
+	      "message": "Менеджер загрузок"
+	   },
+	   "grantManagementPermission": {
+	      "description": "",
+	      "message": "Показать ссылки на расширения, которые загружают файлы."
+	   },
+	   "loadingOlderDownloads": {
+	      "description": "",
+	      "message": "Загрузка старых загрузочных файлов..."
+	   },
+	   "managementPermissionInfo": {
+	      "description": "",
+	      "message": "Некоторые файлы были загружены расширением."
+	   },
+	   "month0abbr": {
+	      "description": "",
+	      "message": "Янв"
+	   },
+	   "month10abbr": {
+	      "description": "",
+	      "message": "Ноя"
+	   },
+	   "month11abbr": {
+	      "description": "",
+	      "message": "Дек"
+	   },
+	   "month1abbr": {
+	      "description": "",
+	      "message": "Фев"
+	   },
+	   "month2abbr": {
+	      "description": "",
+	      "message": "Мар"
+	   },
+	   "month3abbr": {
+	      "description": "",
+	      "message": "Апр"
+	   },
+	   "month4abbr": {
+	      "description": "",
+	      "message": "Май"
+	   },
+	   "month5abbr": {
+	      "description": "",
+	      "message": "Июн"
+	   },
+	   "month6abbr": {
+	      "description": "",
+	      "message": "Июл"
+	   },
+	   "month7abbr": {
+	      "description": "",
+	      "message": "Авг"
+	   },
+	   "month8abbr": {
+	      "description": "",
+	      "message": "Сен"
+	   },
+	   "month9abbr": {
+	      "description": "",
+	      "message": "Окт"
+	   },
+	   "openDownloadsFolderTitle": {
+	      "description": "",
+	      "message": "Открыть папку Загрузки"
+	   },
+	   "openDownloadsFolderText": {
+	      "description": "",
+	      "message": "Папка Загрузки"
+	   },
+	   "settingsTitle": {
+	      "description": "",
+	      "message": "Настройки"
+	   },
+	   "settingsText": {
+	      "description": "",
+	      "message": "Настройки"
+	   },
+	   "openTitle": {
+	      "description": "",
+	      "message": "Открыть"
+	   },
+	   "openWhenCompleteDays": {
+	      "description": "",
+	      "message": "Открытие через $days$Д $hours$Ч ",
+	      "placeholders": {
+	         "days": {
+	            "content": "$1",
+	            "example": "2"
+	         },
+	         "hours": {
+	            "content": "$2",
+	            "example": "23"
+	         }
+	      }
+	   },
+	   "openWhenCompleteFinishing": {
+	      "description": "",
+	      "message": "Открытие через пару секунд"
+	   },
+	   "openWhenCompleteHours": {
+	      "description": "",
+	      "message": "Открытие через $hours$Ч $mins$М",
+	      "placeholders": {
+	         "hours": {
+	            "content": "$1",
+	            "example": "23"
+	         },
+	         "mins": {
+	            "content": "$2",
+	            "example": "59"
+	         }
+	      }
+	   },
+	   "openWhenCompleteMinutes": {
+	      "description": "",
+	      "message": "Открытие через $mins$М $sec$С",
+	      "placeholders": {
+	         "mins": {
+	            "content": "$1",
+	            "example": "59"
+	         },
+	         "sec": {
+	            "content": "$2",
+	            "example": "59"
+	         }
+	      }
+	   },
+	   "openWhenCompleteSeconds": {
+	      "description": "",
+	      "message": "  Открытие через $sec$С",
+	      "placeholders": {
+	         "sec": {
+	            "content": "$1",
+	            "example": "59"
+	         }
+	      }
+	   },
+	   "pauseTitle": {
+	      "description": "",
+	      "message": "Пауза"
+	   },
+	   "referrerTitle": {
+	      "description": "",
+	      "message": "Источник ссылки"
+	   },
+	   "removeFileTitle": {
+	      "description": "",
+	      "message": "Удалить файл"
+	   },
+	   "resumeTitle": {
+	      "description": "",
+	      "message": "Возобновить"
+	   },
+	   "retryTitle": {
+	      "description": "",
+	      "message": "Повторить"
+	   },
+	   "searchPlaceholder": {
+	      "description": "",
+	      "message": "Поиск..."
+	   },
+	   "searching": {
+	      "description": "",
+	      "message": "Телепортация большого количества коз..."
+	   },
+	   "showInFolderTitle": {
+	      "description": "Alt text чтобы показать в значке папки",
+	      "message": "Показать в папке"
+	   },
+	   "showOlderDownloads": {
+	      "description": "",
+	      "message": "Показать старые загрузки"
+	   },
+	   "tabTitle": {
+	      "description": "Название вкладки",
+	      "message": "Загрузки"
+	   },
+	   "timeLeftDays": {
+	      "description": "",
+	      "message": "$days$Д $hours$Ч осталось",
+	      "placeholders": {
+	         "days": {
+	            "content": "$1",
+	            "example": "2"
+	         },
+	         "hours": {
+	            "content": "$2",
+	            "example": "23"
+	         }
+	      }
+	   },
+	   "timeLeftFinishing": {
+	      "description": "",
+	      "message": "finishing..."
+	   },
+	   "timeLeftHours": {
+	      "description": "",
+	      "message": "$hours$Ч $mins$М осталось",
+	      "placeholders": {
+	         "hours": {
+	            "content": "$1",
+	            "example": "23"
+	         },
+	         "mins": {
+	            "content": "$2",
+	            "example": "59"
+	         }
+	      }
+	   },
+	   "timeLeftMinutes": {
+	      "description": "",
+	      "message": "$mins$М $sec$С осталось",
+	      "placeholders": {
+	         "mins": {
+	            "content": "$1",
+	            "example": "59"
+	         },
+	         "sec": {
+	            "content": "$2",
+	            "example": "59"
+	         }
+	      }
+	   },
+	   "timeLeftSeconds": {
+	      "description": "",
+	      "message": "$sec$С осталось",
+	      "placeholders": {
+	         "sec": {
+	            "content": "$1",
+	            "example": "59"
+	         }
+	      }
+	   },
+	   "zeroItems": {
+	      "description": "",
+	      "message": "Загруженных файлов нет."
+	   },
+	   "zeroSearchResults": {
+	      "description": "",
+	      "message": "Совпадений не найдено"
+	   }
+	}
